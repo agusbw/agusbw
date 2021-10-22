@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @agusbw
+- 👀 I’m interested in programming and algorithm.
+- 🌱 I’m currently learning everything.
+- 💞️ I’m looking to collaborate with other developers.
+- 📫 Find me on twitter @zyenk_
